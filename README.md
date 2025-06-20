@@ -1,4 +1,4 @@
-st - simple terminal
+My fork of st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
@@ -17,6 +17,12 @@ Afterwards enter the following command to build and install st (if
 necessary as root):
 
     make clean install
+
+Patches applied
+---------------
+- anysize
+- ligatures
+- Xresources
 
 
 Running st
